@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/cream"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".MainActivity4">
+
+
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_gravity="center"
+    android:src="@drawable/df"
+    android:layout_margin="20dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="Wishing a happy Valentine’s day to all my family and friends. Thanks for always being so kind and loving me, and my family. I always keep you in my prayers and in good thoughts.
+
+The most significant connection a person makes in his life is with his family and friends. On this Valentine’s Day, I hope to see all my family and friends even more in love with each other."/>
+
+</LinearLayout>
